@@ -1,6 +1,6 @@
-# tribute-page
+# tribute-page-project
 
-This a Tribute Page Project for freeCodeCamp. 
+Bob Marley Tribute Page Project for freeCodeCamp. 
 
 This will be a part of my coding journey.
 
