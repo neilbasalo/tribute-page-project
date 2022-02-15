@@ -4,4 +4,4 @@ Bob Marley Tribute Page Project for freeCodeCamp.
 
 This will be a part of my coding journey.
 
-See it live here: https://neilbasalo.github.io/bob-marley-tribute-page/
+See it live here: https://neilbasalo.github.io/tribute-page-project/
