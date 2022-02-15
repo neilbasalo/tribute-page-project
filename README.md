@@ -1,4 +1,4 @@
-# bob-marley-tribute-page
+# tribute-page
 
 This a Tribute Page Project for freeCodeCamp. 
 
