@@ -1,7 +1,7 @@
 # tribute-page-project
 
-Bob Marley Tribute Page Project for freeCodeCamp. 
+I made a Bob Marley Tribute Page Project using HTML & CSS.
 
-This will be a part of my coding journey.
+You can check it out here:
 
-See it live here: https://neilbasalo.github.io/tribute-page-project/
+https://neilbasalo.github.io/tribute-page-project/
